@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Arch Linux) (format=pdflatex 2014.3.16)  13 MAY 2014 18:21
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Arch Linux) (format=pdflatex 2014.3.16)  13 MAY 2014 18:36
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -194,31 +194,31 @@ Missing character: There is no ½ in font cmr10!
  [2]
 No file ae4010_coen_greidanus.bbl.
 
-Overfull \hbox (44.75085pt too wide) in paragraph at lines 73--74
+Overfull \hbox (44.75085pt too wide) in paragraph at lines 71--72
 \OT1/cmr/m/n/10 Ruskin Uni-ver-sity Li-brary in the UK: http://libweb.anglia.ac
 .uk/referencing/harvard.htm. 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 82.
+(Font)              <7> on input line 80.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 82.
+(Font)              <5> on input line 80.
 
-LaTeX Warning: Citation `template' on page 3 undefined on input line 82.
+LaTeX Warning: Citation `template' on page 3 undefined on input line 80.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 84.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 82.
 [3] [4]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 84.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 82.
  (./ae4010_coen_greidanus.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 84.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 84.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 82.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 82.
 Package rerunfilecheck Info: File `ae4010_coen_greidanus.out' has not changed.
 (rerunfilecheck)             Checksum: 428AF422C4AAECA06335839D85417C41;489.
 
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 84.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 82.
  ) 
 Here is how much of TeX's memory you used:
  4266 strings out of 493308
@@ -235,7 +235,7 @@ ts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texmf-dist/fonts/type1/public
 r12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/s
 hare/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmr9.pfb>
-Output written on ae4010_coen_greidanus.pdf (4 pages, 107826 bytes).
+Output written on ae4010_coen_greidanus.pdf (4 pages, 107856 bytes).
 PDF statistics:
  94 PDF objects out of 1000 (max. 8388607)
  79 compressed objects within 1 object stream
